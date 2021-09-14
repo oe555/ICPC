@@ -11,6 +11,7 @@ ll segMinQ(int a1, int b1) { // min(a_a1, a_(a1+1), ..., a_b1)
     }
     return res;
 }
+
 void segAdd(int i1, ll x1) { // Adds x1 to a_i1
     i1 += n;
     tree[i1] += x1;
