@@ -8,6 +8,7 @@ set title
 set confirm
 set belloff=all
 set mouse=a
+set so=7
 
 inoremap {<CR> {<CR>}<Esc>O
 
