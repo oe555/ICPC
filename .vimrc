@@ -1,6 +1,6 @@
 syntax on
-" colorscheme industry 
-colorscheme onehalfdark
+colorscheme industry 
+" colorscheme onehalfdark
 set rnu
 set tabstop=4
 set autoindent
