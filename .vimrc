@@ -10,5 +10,4 @@ set belloff=all
 set mouse=a
 set so=7
 
-inoremap {<CR> {<CR>}<Esc>O
-
+inoremap {<CR> {<CR>}<Esc>ko<tab>
